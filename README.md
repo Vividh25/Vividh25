@@ -1,4 +1,12 @@
 ### Hi there 👋
+<img src="https://tenor.com/view/corgi-hello-gif-5043108.gif" width=250px/>
+
+## Vividh Bhardwaj
+Greetings! I am a 3rd year B.Tech student pusrsuing Computer Science and Engineering from SRM University. I like to work on Web Development and have recently joined an open source community called [Real Dev Squad](https://www.realdevsquad.com/). I am currently working on and learning about web testing. Check out my repositories and well, leave comment if you have something constructive to say :) 
+
+![Vividh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vividh25&show_icons=true&theme=radical)
+
+Ping me [here](https://www.linkedin.com/in/vividh-bhardwaj-093340194/) if you want to collaborate on something cool!
 
 <!--
 **Vividh25/Vividh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
