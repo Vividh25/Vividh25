@@ -2,7 +2,7 @@
 <img src="https://tenor.com/view/corgi-hello-gif-5043108.gif" width=250px/>
 
 ## Vividh Bhardwaj
-Greetings! I am a 3rd year B.Tech student pusrsuing Computer Science and Engineering from SRM University. I like to work on Web Development and have recently joined an open source community called [Real Dev Squad](https://www.realdevsquad.com/). I am currently working on and learning about web testing. Check out my repositories and well, leave comment if you have something constructive to say :) 
+Greetings! I am a 3rd year B.Tech student pusrsuing Computer Science and Engineering from SRM University. I like to work on Web Development and I am currently an App Owner at [Real Dev Squad](https://www.realdevsquad.com/). Check out my repositories and well, leave comment if you have something constructive to say :) 
 
 ![Vividh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vividh25&show_icons=true&theme=radical)
 
