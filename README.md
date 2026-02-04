@@ -2,7 +2,7 @@
 <img src="https://tenor.com/view/corgi-hello-gif-5043108.gif" width=250px/>
 
 ## Vividh Bhardwaj
-Greetings! I am a 3rd year B.Tech student pusrsuing Computer Science and Engineering from SRM University. I like to work on Web Development and I am currently an App Owner at [Real Dev Squad](https://www.realdevsquad.com/). Check out my repositories and well, leave comment if you have something constructive to say :) 
+Greetings! I am a Senior SDET at Oracle. I design and maintain long-running selenium regression suites for Oracle Machine Learning, a cloud-hosted database service on Oracle Cloud Infrastructure. Apart from this I also have experience with Web Development, Generative AI and Cloud. Feel free to reach out! 
 
 ![Vividh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vividh25&show_icons=true&theme=radical)
 
