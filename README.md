@@ -4,8 +4,6 @@
 ## Vividh Bhardwaj
 Greetings! I am a Senior SDET at Oracle. I design and maintain long-running selenium regression suites for Oracle Machine Learning, a cloud-hosted database service on Oracle Cloud Infrastructure. Apart from this I also have experience with Web Development, Generative AI and Cloud. Feel free to reach out! 
 
-![Vividh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vividh25&show_icons=true&theme=radical)
-
 Ping me [here](https://www.linkedin.com/in/vividh-bhardwaj-093340194/) if you want to collaborate on something cool!
 
 <!--
