@@ -3,7 +3,7 @@
 
 I build backend-heavy full stack systems — the kind that need to be fast, reliable, and maintainable six months later. Most of my work lives in Java and Spring Boot, but I'm comfortable across the stack when the problem calls for it.
 
-> Currently exploring: system design patterns, rate limiting strategies, and graph traversal problems (yes, I do LeetCode for fun now, apparently).
+> Currently exploring: system design patterns, rate limiting strategies, and advanced data structures (yes, I do LeetCode for fun now, apparently).
 
 ---
 
