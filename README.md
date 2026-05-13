@@ -1,22 +1,26 @@
-### Hi there 👋
-<img src="https://tenor.com/view/corgi-hello-gif-5043108.gif" width=250px/>
+# Hey, I'm Vividh 👋
+**Senior Software Developer · Java & Spring Boot · Full Stack · System Design**
 
-## Vividh Bhardwaj
-Greetings! I am a Senior SDET at Oracle. I design and maintain long-running selenium regression suites for Oracle Machine Learning, a cloud-hosted database service on Oracle Cloud Infrastructure. Apart from this I also have experience with Web Development, Generative AI and Cloud. Feel free to reach out! 
+I build backend-heavy full stack systems — the kind that need to be fast, reliable, and maintainable six months later. Most of my work lives in Java and Spring Boot, but I'm comfortable across the stack when the problem calls for it.
 
-Ping me [here](https://www.linkedin.com/in/vividh-bhardwaj-093340194/) if you want to collaborate on something cool!
+> Currently exploring: system design patterns, rate limiting strategies, and graph traversal problems (yes, I do LeetCode for fun now, apparently).
 
-<!--
-**Vividh25/Vividh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 tech i work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` `Spring Boot` `Spring Data JPA` `React` `REST APIs` `System Design` `Concurrency` `Docker` `Git`
+
+---
+
+### 📌 what i care about
+
+- Writing code that's easy for the next person to reason about
+- Designing systems that hold up under real load
+- Understanding the tradeoffs, not just the solution
+
+---
+
+### 📬 get in touch
+
+Open to senior developer roles. Feel free to reach out.
